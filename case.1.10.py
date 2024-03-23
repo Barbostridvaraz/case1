@@ -1,0 +1,6 @@
+i = int(input("Номер рейса: "))
+j = str(input("Номер рейса: "))
+k = str(input("Номер рейса: "))
+o = str(input("Номер рейса: "))
+p = str(input("Номер рейса: "))
+print(f"Заканчивется посадка на рейс {i} {j} до {o}\nThis is the final boarding call for {k} flight {i} to {p}")
